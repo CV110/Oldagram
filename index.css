@@ -4,6 +4,7 @@ html, body {
     font-family: 'Source Sans Pro', sans-serif;
     background-image: url("images/fondo.jpg");
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .container {
