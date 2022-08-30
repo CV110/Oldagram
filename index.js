@@ -53,7 +53,7 @@ for(let i=0; i< posts.length; i++) {
     comu.innerHTML = 
     `
     <div class="container">
-        <img src="images/icon-heart.png" class="icons" id="heart${i}">
+        <img src="images/icon-heart.png" class="icons-h" id="heart${i}">
         <img src="images/icon-comment.png" class="icons">
         <img src="images/icon-dm.png" class="icons">
                     
