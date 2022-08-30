@@ -1,0 +1,109 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-image: url("images/fondo.jpg");
+    background-size: cover;
+}
+
+.container {
+    width: 380px;
+    margin: 0 auto;
+    background: white;
+    
+   
+}
+
+
+
+.logo {
+    width: 130px;
+    margin: 15px;    
+    
+}
+
+.avatar {
+    width: 40px;
+    border-radius: 50%;
+    padding: 10px;
+    margin-left: 145px;
+    margin-bottom: 15px;
+    
+}
+
+.avatar-main-photo {
+    width: 35px;
+    margin: 0 5px;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+
+.name-location {
+    display: flex;
+    padding: 10px;
+    border-top: 1px solid #C6C6C6;
+    
+    
+}
+
+p {
+    font-size: 13px;
+    margin: 0;
+    margin-top: 5px;
+    
+    line-height: 15px;
+}
+
+span {
+    font-weight: 700;
+}
+
+.location-p {
+    font-size: 12px;
+    margin:0
+}
+
+.main-photo {
+    width: 380px;
+    height: 380px;
+    background-size: cover;
+    
+}
+.community {
+    
+    display: flex;
+    
+   
+}
+
+.icons {
+    padding: 5px;
+    width: 23px;
+    margin-left: 7px;
+    margin-top: 8px;
+    margin-bottom: 9px;
+}
+
+.icons:hover, .icons:focus {
+    opacity: 0.5;
+}
+
+.likes-p {
+    margin: 0 13px;
+    font-size: 14px;
+}
+
+.comments {
+    margin: 10px 12px;
+    margin-bottom: 15px;
+    
+}
+
+.last {
+    
+    border-bottom: 20px solid #C6C6C6;
+}
+
+#comment {
+    font-weight: 400;
+}
